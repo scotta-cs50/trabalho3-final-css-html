@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 290" width="640" height="290" font-family="Arial, sans-serif" text-anchor="middle">
+  <defs>
+    <marker id="seta" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto">
+      <path d="M0 0 L10 5 L0 10 z" fill="#14213d"/>
+    </marker>
+  </defs>
+  <rect width="640" height="290" rx="12" fill="#eef2f9"/>
+  <rect x="25" y="45" width="165" height="95" rx="10" fill="#ffffff" stroke="#14213d" stroke-width="3"/>
+  <text x="107" y="82" font-size="18" font-weight="bold" fill="#14213d">1. Busca</text>
+  <text x="107" y="106" font-size="13" fill="#333333">lê a instrução</text>
+  <text x="107" y="124" font-size="13" fill="#333333">da memória</text>
+  <rect x="238" y="45" width="165" height="95" rx="10" fill="#ffffff" stroke="#14213d" stroke-width="3"/>
+  <text x="320" y="82" font-size="18" font-weight="bold" fill="#14213d">2. Decodificação</text>
+  <text x="320" y="106" font-size="13" fill="#333333">descobre o que</text>
+  <text x="320" y="124" font-size="13" fill="#333333">a instrução pede</text>
+  <rect x="451" y="45" width="165" height="95" rx="10" fill="#ffffff" stroke="#14213d" stroke-width="3"/>
+  <text x="533" y="82" font-size="18" font-weight="bold" fill="#14213d">3. Execução</text>
+  <text x="533" y="106" font-size="13" fill="#333333">faz a operação</text>
+  <text x="533" y="124" font-size="13" fill="#333333">pedida</text>
+  <line x1="190" y1="92" x2="234" y2="92" stroke="#14213d" stroke-width="3" marker-end="url(#seta)"/>
+  <line x1="403" y1="92" x2="447" y2="92" stroke="#14213d" stroke-width="3" marker-end="url(#seta)"/>
+  <path d="M533 140 C533 235 107 235 107 144" fill="none" stroke="#14213d" stroke-width="3" marker-end="url(#seta)"/>
+  <text x="320" y="260" font-size="14" fill="#14213d">o ciclo recomeça com a próxima instrução</text>
+</svg>

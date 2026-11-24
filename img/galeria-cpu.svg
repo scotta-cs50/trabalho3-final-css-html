@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300" font-family="Arial, sans-serif" text-anchor="middle">
+  <rect width="400" height="300" fill="#eef2f9"/>
+  <g stroke="#fca311" stroke-width="8" stroke-linecap="round">
+    <path d="M140 50v22M170 50v22M200 50v22M230 50v22M260 50v22"/>
+    <path d="M140 228v22M170 228v22M200 228v22M230 228v22M260 228v22"/>
+    <path d="M98 90h24M98 120h24M98 150h24M98 180h24M98 210h24"/>
+    <path d="M278 90h24M278 120h24M278 150h24M278 180h24M278 210h24"/>
+  </g>
+  <rect x="120" y="70" width="160" height="160" rx="10" fill="#14213d"/>
+  <rect x="150" y="100" width="100" height="100" rx="6" fill="#2c3e66" stroke="#fca311" stroke-width="3"/>
+  <text x="200" y="158" font-size="26" font-weight="bold" fill="#ffffff">CPU</text>
+</svg>
